@@ -4,7 +4,7 @@
 <body>
 	<h3>Booking-Entry-Form For ${email}</h3>
 	<hr>
-		<form:form action="savebooking" modelAttribute="booking">
+		<form:form action="savebooking" modelAttribute="booking" >
 		<pre>
 			Date	<form:input path="date"/>
 			SCity	<form:select path="sourceCity" items="${cities}"/>

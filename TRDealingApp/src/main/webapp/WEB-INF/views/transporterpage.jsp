@@ -20,9 +20,9 @@
 		
                 <a href="customerlist">View-All-Customers</a>
 	        	  
-		<hr>
+		
 		<a href="index.jsp">LOGOUT</a>
-		<hr>
+		
 	</pre>
 	<hr>
 </body>
